@@ -13,7 +13,7 @@
   height: 709px;
 }
 #fotocover1{
-  background-image: url("sekolah.jpg");
+  background-image: url('sekolah.jpg');
 }
 #fotocover2{
   background-image: url('sekolah.jpg');
