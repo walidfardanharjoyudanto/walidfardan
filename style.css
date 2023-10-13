@@ -799,6 +799,7 @@ footer p {
   .formdata{
     height: 300px;
     width: 300px;
+    margin-top: 20px;
   }
   .formdata img{
     width: 75%;
