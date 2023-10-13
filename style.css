@@ -329,6 +329,21 @@ h5 {
   color:  #FFEA20;
 }
 
+.tombol1{
+  background-color:  #8DCBE6;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  border: 3px solid  white;
+  border-radius: 0px;
+  margin-left: 33px;
+}
+.tombol1:hover{
+  border: 3px solid #FFEA20;
+  background-color: white;
+  color:  #FFEA20;
+}
+
 .isi-konten2{
   width: 100%;
   height: 500px;
@@ -804,5 +819,23 @@ footer p {
   .formdata img{
     width: 75%;
     position: absolute;
+  }
+    .tombol1{
+  background-color:  #8DCBE6;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  border: 3px solid  white;
+  margin-left: -12px;
+  position: relative;
+}
+.tombol1:hover{
+  border: 3px solid #FFEA20;
+  background-color: white;
+  color:  #FFEA20;
+}
+  #h1-kiri{
+    margin-top: -270px;
+    margin-left: -98px;
   }
 }
