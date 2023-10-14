@@ -534,7 +534,7 @@ footer p {
     
   }
 
-  @media scrren and (min-width:180px) and (max-width:768px){
+  @media scrren and (min-width:360px) and (max-width:768px){
     body{
       width: 100%;
     }
